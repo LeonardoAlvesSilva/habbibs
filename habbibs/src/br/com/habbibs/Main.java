@@ -5,16 +5,9 @@
  */
 package br.com.habbibs;
 public class Main{
-    public static void main(string[] args) {
+    public static void main(String [] args) {
         System.out.println("Sistema criado com sucesso");
     }
             
             
-}
-/**
- *
- * @author LAB_ETECIA
- */
-public class Main {
-    
 }
